@@ -7,6 +7,8 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
+  contentDirectory: "G:/My Drive/2025/Obsidian-Site/obsidian-site",
+
   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
