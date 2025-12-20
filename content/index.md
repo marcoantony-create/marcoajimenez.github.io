@@ -1,6 +1,6 @@
----
-title: Welcome to Quartz
----
+# Marco Jimenez
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[01_Profile/About]]
+- [[02_Research/Projects]]
+- [[03_Garden/index]]
+- [[04_Revista/index]]
