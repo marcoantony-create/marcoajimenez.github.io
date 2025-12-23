@@ -86,3 +86,4 @@ Este artículo de **BioRxiv** desafía la visión simplista de "una sola respues
 
 # Infografía
 
+![[gusano_nunatak_b.png]]
