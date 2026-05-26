@@ -18,9 +18,16 @@ tags:
   - Rotifers
   - Experimental_Ecotoxicology
 ---
-
-# Trophic transfer and egestion dynamics of microplastics in the *Brachionus-Asplanchna* rotifer system
-
+> **Authors:**
+> - Jorge Jiménez-Contreras
+> - Alejandro Salvador-Martínez
+> - Marco Antonio Jiménez-Santos
+> - Michael Anai Figueroa-Sánchez
+> - Alfonso Lugo-Vázquez
+> - Mario Alfredo Fernández-Araiza
+>   
+> **Journal:** Environmental Monitoring and Assessment
+> **Year:** 2026
 ## Links
 
 - DOI: https://doi.org/10.1007/s10661-026-15485-w
@@ -43,4 +50,5 @@ Microplastics can move from prey rotifers (*Brachionus*) to predator rotifers (*
 - Connects rotifer ecology with ecotoxicology.
 - Useful model for studying contaminant movement in microscopic food webs.
 - Shows difference between trophic transfer and biomagnification.
-- 
+
+**Citation:** Jiménez-Contreras, J., Salvador-Martínez, A., Jiménez-Santos, M. A., Figueroa-Sánchez, M. A., Lugo-Vázquez, A., & Fernández-Araiza, M. A. (2026). *Trophic transfer and egestion dynamics of microplastics in the Brachionus-Asplanchna rotifer system*. Environmental Monitoring and Assessment, 198, Article 635. https://doi.org/10.1007/s10661-026-15485-w
