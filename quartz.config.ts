@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   contentDirectory: "G:/My Drive/2025/Obsidian-Site/obsidian-site",
 
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Marco Jimenez",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

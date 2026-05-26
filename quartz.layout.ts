@@ -1,17 +1,31 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { h } from "preact"
+import { QuartzComponent, QuartzComponentConstructor } from "./quartz/components/types"
+
+const PersonalFooter = (() => {
+  const Footer: QuartzComponent = ({ displayClass }) => {
+    const year = new Date().getFullYear()
+    return h("footer", { class: displayClass ?? "" }, h("p", null, `© ${year} Marco Jimenez`))
+  }
+
+  Footer.css = `
+footer {
+  text-align: left;
+  margin-bottom: 4rem;
+  opacity: 0.7;
+}
+`
+
+  return Footer
+}) satisfies QuartzComponentConstructor
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: PersonalFooter(),
 }
 
 // components for pages that display a single page (e.g. a single note)
