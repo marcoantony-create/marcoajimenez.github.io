@@ -2,5 +2,5 @@
 
 - [[About me]]
 - [[02_Research/Projects]]
-- [[03_Garden/index]]
+- [[Readings - Index]]
 - [[04_Revista/index]]
