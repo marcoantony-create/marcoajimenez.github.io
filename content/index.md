@@ -2,7 +2,7 @@
 
 - [[About me]]
 - [[02_Research/Projects]]
-- [[02_Research/Publications]]
+- [[Publication List]]
 - [[03_Garden/Readings - Index]]
 - [[Journal - Index]]
 - 
