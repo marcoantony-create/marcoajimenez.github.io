@@ -1,4 +1,4 @@
-# Marco Jimenez
+# Marco Antonio Jimenez-Santos
 
 - [[About me]]
 - [[02_Research/Projects]]
