@@ -63,20 +63,7 @@ This preprint identifies future research priorities for the Phylum Rotifera usin
 - Useful for students, researchers and funding proposals.  
 - Identifies where the field has strong knowledge gaps.  
 - Connects traditional rotifer taxonomy with modern approaches such as genomics, eDNA and AI-assisted identification.  
-- Helps position rotifers as important organisms for ecology, evolution, biodiversity and global change research.  
-  
-## Keywords  
-  
-- Rotifera  
-- Rotifers  
-- Delphi process  
-- Research priorities  
-- Taxonomy  
-- Biodiversity  
-- Molecular tools  
-- AI-assisted identification  
-- Global change  
-  
+- Helps position rotifers as important organisms for ecology, evolution, biodiversity and global change research.    
 ## Citation  
   
 Macêdo, R. L., Solano-Udina, C., Borup, M. D., Jiménez-Santos, M. A., Arenas-Sánchez, C., Branco, C. W. C., Costa, K., Kozlowsky-Suzuki, B., Bonecker, C., Walsh, E. J., Garraffoni, A. R. S., Sarma, S. S. S., Ochocka, A., Sarma, N., Wallace, R., Fontaneto, D., Jeschke, J. M., & Lacerot, G. (2026). *Consensus on future research directions in the Phylum Rotifera*. EcoEvoRxiv. https://doi.org/10.32942/X2J36W

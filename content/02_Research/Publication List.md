@@ -4,16 +4,12 @@ title: Publications
 
 # 2026
 [[Microplastic Rotifer-Predator system]]
-
 ## Preeprint
 [[Consensus on future research directions in the Phylum Rotifera]]
-
 ### Popularization of science article
-
-
+[[Mas alla del febrero loco]]
 # 2025
 [[Rare presence of nematodes in cryoconite holes]]
-
 ## Chapter book
 [[Exploring Zooplankton-Macrophytes Interaction Research in Mexico]]
 # 2024
@@ -21,3 +17,7 @@ title: Publications
 [[Niche differentiation in rotifer cryptic species complexes]]
 # 2023
 [[Daphnia magna in central Mexico wetlands]]
+### Popularization of science article
+[[Animales microscópicos]]
+# 2022
+[[Codigo de barras de ADN]]
