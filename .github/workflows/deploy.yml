@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        run: git clone --depth 1 --branch v4 https://github.com/${{ github.repository }}.git .
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
